@@ -1,0 +1,37 @@
+body{
+   text-align: center; 
+    background-color: blanchedalmond;
+}
+a img{
+  width:10px;
+  height:10px;
+   transition: transform .2s;
+}
+img:hover{
+transform: scale(0.9);
+}
+h1{
+  font-family: 'Pacifico', cursive;
+}
+
+.mail1 a{
+  color:black;
+  text-decoration:none;
+}
+.mail h3{
+  display:inline;
+}
+#contact{
+  background-color:#E91E63;
+}
+.menu{
+  list-style:none;
+  position:fixed;
+  font-size:25px;
+  right:350px;
+  cursor:pointer;
+}
+.link{
+  float:left;
+  padding:9px;
+}
