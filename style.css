@@ -1,0 +1,43 @@
+body{
+  text-align:center;
+  background-color:#01010E;
+}
+#tit{
+  color:white;
+  font-size:50px;
+  font-variant:small-caps;
+}
+#name{
+  color:white;
+  font-size:55px;
+  font-variant:small-caps; 
+}
+#jk{
+  width:750px;
+}
+p{
+  color:white;
+  font-size:25px;
+}
+.menu{
+  list-style:none;
+  position:fixed;
+  font-size:25px;
+  top:2px;
+  right:225px;
+  color:white;
+  cursor:pointor;
+}
+.link{
+  float:left;
+  padding:9px;
+  font-family: 'Courgette', cursive;
+}
+.link:hover{
+  background-color:#FFFF00
+}
+h1{
+  color:white;
+  font-size:35px;
+ font-family: 'Vollkorn', serif;
+}
